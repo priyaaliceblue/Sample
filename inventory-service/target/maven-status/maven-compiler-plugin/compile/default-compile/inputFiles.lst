@@ -1,6 +1,0 @@
-/home/abdw31/Desktop/microservices_newnew/inventory-service/src/main/java/com/example/inventory_service/InventoryServiceApplication.java
-/home/abdw31/Desktop/microservices_newnew/inventory-service/src/main/java/com/example/inventory_service/controller/InventoryController.java
-/home/abdw31/Desktop/microservices_newnew/inventory-service/src/main/java/com/example/inventory_service/dto/InventoryResponse.java
-/home/abdw31/Desktop/microservices_newnew/inventory-service/src/main/java/com/example/inventory_service/model/Inventory.java
-/home/abdw31/Desktop/microservices_newnew/inventory-service/src/main/java/com/example/inventory_service/repository/InventoryRepository.java
-/home/abdw31/Desktop/microservices_newnew/inventory-service/src/main/java/com/example/inventory_service/service/InventoryService.java
